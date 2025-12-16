@@ -4,7 +4,7 @@ print('Hello, world!')
 # Python Program to find the area of triangle
 
 a = 5
-b = 6
+b = 8
 c = 10
 
 # Uncomment below to take inputs from the user
